@@ -1,5 +1,5 @@
 #### electron-react-template
-
+主要是使用node.js实现上传下载压缩图片的功能
 ### 技术架构
 
 electron16 + react17 + webpack5
